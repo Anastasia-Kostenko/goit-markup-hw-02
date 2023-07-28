@@ -193,10 +193,10 @@ body {
   border: none;
 }
 
-.btn-menu:focus,
-.btn-menu:hover {
-  color: #ffffff;
-  background-color: #404bbf;
+.menu-btm:focus,
+.menu-btm:hover {
+  color: var(--white);
+  background-color: var(--ocean);
   cursor: pointer;
 }
 
